@@ -4,3 +4,10 @@ dataset_raw/
 *.pt
 *.zip
 __pycache__/
+
+.vscode/
+.vscode-server/
+.cursor-server/
+.windsurf-server/
+.lightning_studio/
+.idea/
