@@ -1,6 +1,8 @@
 runs/
 dataset/
 dataset_raw/
+models/
+temp_uploads/
 *.pt
 *.zip
 __pycache__/
