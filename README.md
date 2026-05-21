@@ -24,7 +24,8 @@ license-plate-clean/
 ```bash
 pip install -r requirements.txt
 ```
-
+#### Lưu ý: 
+model nằm trong drive, sau khi tải về, có thể lựa chọn cài đặt chỗ lưu model theo đúng kiến trúc hệ thống bên trên, hoặc nếu lưu model chỗ khác thì phải đổi đường dẫn đến nơi lưu model.
 ### 2. Run App
 ```bash
 python app.py
